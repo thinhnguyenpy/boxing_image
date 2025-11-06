@@ -9,5 +9,5 @@ pip3 install labelImg
 labelImg
 labelImg [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
-IMAGE_PATH: link tới folder chứng ảnh
+IMAGE_PATH: link tới folder chứa ảnh
 PRE-DEFINED CLASS FILE: link tới classes.txt (ví dụ: labels/classes.txt)
