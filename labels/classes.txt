@@ -1,0 +1,6 @@
+using phone
+reading_book
+no_person
+using_computer
+spleeping
+writing

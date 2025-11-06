@@ -1,0 +1,13 @@
+# Bỏ qua thư mục môi trường ảo Python
+venv/
+
+# Bỏ qua thư mục chứa video
+video/
+
+# Bỏ qua các thư mục chứa frames đã trích xuất
+frames/
+frame_using_phone/
+
+# Bỏ qua file cache của Python (nên có)
+__pycache__/
+*.pyc
